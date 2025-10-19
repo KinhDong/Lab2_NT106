@@ -1,0 +1,21 @@
+Tên phim: Mưa đỏ
+Số vé bán ra: 2
+Số vé tồn: 27
+Tỉ lệ vé bán ra: 0,06896551724137931
+Doanh thu: 210000
+Thứ hạng: 2
+
+Tên phim: Đào, phở và piano
+Số vé bán ra: 2
+Số vé tồn: 10
+Tỉ lệ vé bán ra: 0,16666666666666666
+Doanh thu: 101250
+Thứ hạng: 3
+
+Tên phim: Mai
+Số vé bán ra: 0
+Số vé tồn: 40
+Tỉ lệ vé bán ra: 0
+Doanh thu: 0
+Thứ hạng: 4
+
