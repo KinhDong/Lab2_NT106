@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            rtb_foodsList = new RichTextBox();
             groupBox1 = new GroupBox();
             tb_foodImageAdded = new TextBox();
             label5 = new Label();
@@ -44,18 +43,10 @@
             tb_contributorNameFound = new TextBox();
             tb_foodNameFound = new TextBox();
             btn_findFoods = new Button();
+            listv_foodList = new ListView();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pic_foodImageFound).BeginInit();
             SuspendLayout();
-            // 
-            // rtb_foodsList
-            // 
-            rtb_foodsList.Location = new Point(26, 310);
-            rtb_foodsList.Name = "rtb_foodsList";
-            rtb_foodsList.ReadOnly = true;
-            rtb_foodsList.Size = new Size(432, 249);
-            rtb_foodsList.TabIndex = 0;
-            rtb_foodsList.Text = "";
             // 
             // groupBox1
             // 
@@ -145,9 +136,10 @@
             // 
             // pic_foodImageFound
             // 
-            pic_foodImageFound.Location = new Point(617, 142);
+            pic_foodImageFound.Location = new Point(622, 142);
             pic_foodImageFound.Name = "pic_foodImageFound";
             pic_foodImageFound.Size = new Size(338, 281);
+            pic_foodImageFound.SizeMode = PictureBoxSizeMode.StretchImage;
             pic_foodImageFound.TabIndex = 3;
             pic_foodImageFound.TabStop = false;
             // 
@@ -193,12 +185,23 @@
             btn_findFoods.TabIndex = 12;
             btn_findFoods.Text = "Tìm món ăn";
             btn_findFoods.UseVisualStyleBackColor = true;
+            btn_findFoods.Click += btn_findFoods_Click;
+            // 
+            // listv_foodList
+            // 
+            listv_foodList.Location = new Point(30, 309);
+            listv_foodList.Name = "listv_foodList";
+            listv_foodList.Size = new Size(428, 246);
+            listv_foodList.TabIndex = 13;
+            listv_foodList.UseCompatibleStateImageBehavior = false;
+            listv_foodList.View = View.List;
             // 
             // Bai6
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1087, 581);
+            Controls.Add(listv_foodList);
             Controls.Add(btn_findFoods);
             Controls.Add(tb_contributorNameFound);
             Controls.Add(tb_foodNameFound);
@@ -206,7 +209,6 @@
             Controls.Add(label3);
             Controls.Add(pic_foodImageFound);
             Controls.Add(groupBox1);
-            Controls.Add(rtb_foodsList);
             Name = "Bai6";
             Text = "Bai6_24520303_BuiCongDinh";
             Load += Bai6_Load;
@@ -218,8 +220,6 @@
         }
 
         #endregion
-
-        private RichTextBox rtb_foodsList;
         private GroupBox groupBox1;
         private TextBox tb_contributorNameAdded;
         private TextBox tb_foodNameAdded;
@@ -235,5 +235,6 @@
         private Button btn_findFoods;
         private TextBox tb_foodImageAdded;
         private Label label5;
+        private ListView listv_foodList;
     }
 }

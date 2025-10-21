@@ -233,7 +233,7 @@ namespace Lab2_NT106
                             sw.WriteLine($"Số vé tồn: {filmList[index].numOfTicketsLeft}");
                             sw.WriteLine($"Tỉ lệ vé bán ra: {1.0 * filmList[index].numOfSoldTickets / filmList[index].numOfTickets}");
                             sw.WriteLine($"Doanh thu: {filmList[index].revenue}");
-                            sw.WriteLine($"Thứ hạng: {filmIndexList.Length - i + 1}{Environment.NewLine}");
+                            sw.WriteLine($"Thứ hạng: {filmIndexList.Length - i}{Environment.NewLine}");
 
                             pb_progress.Value++;
                             await Task.Delay(5);

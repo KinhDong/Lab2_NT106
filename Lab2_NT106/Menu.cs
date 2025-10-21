@@ -42,5 +42,11 @@ namespace Lab2_NT106
             Bai6 f6 = new Bai6();
             f6.Show();
         }
+
+        private void btn_Bai7_Click(object sender, EventArgs e)
+        {
+            Bai7 f7 = new Bai7();
+            f7.Show();
+        }
     }
 }

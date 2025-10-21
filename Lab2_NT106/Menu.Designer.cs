@@ -106,6 +106,7 @@
             btn_Bai7.TabIndex = 6;
             btn_Bai7.Text = "Bài 7";
             btn_Bai7.UseVisualStyleBackColor = true;
+            btn_Bai7.Click += btn_Bai7_Click;
             // 
             // Menu
             // 

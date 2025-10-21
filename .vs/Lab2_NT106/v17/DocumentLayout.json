@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|d:\\project\\laptrinhmang\\lab2_nt106\\lab2_nt106\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|solutionrelative:lab2_nt106\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|d:\\project\\laptrinhmang\\lab2_nt106\\lab2_nt106\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|solutionrelative:lab2_nt106\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|d:\\project\\laptrinhmang\\lab2_nt106\\lab2_nt106\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|solutionrelative:lab2_nt106\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|D:\\Project\\LapTrinhMAng\\Lab2_NT106\\lab2_nt106\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|solutionrelative:lab2_nt106\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|d:\\project\\laptrinhmang\\lab2_nt106\\lab2_nt106\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|solutionrelative:lab2_nt106\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|d:\\project\\laptrinhmang\\lab2_nt106\\lab2_nt106\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3683CA96-9016-44A0-ABE0-43B64D1188C4}|Lab2_NT106\\Lab2_NT106.csproj|solutionrelative:lab2_nt106\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bai6.cs",
-              "DocumentMoniker": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai6.cs",
-              "RelativeDocumentMoniker": "Lab2_NT106\\Bai6.cs",
-              "ToolTip": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai6.cs",
-              "RelativeToolTip": "Lab2_NT106\\Bai6.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai7.cs",
+              "RelativeDocumentMoniker": "Lab2_NT106\\Bai7.cs",
+              "ToolTip": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai7.cs",
+              "RelativeToolTip": "Lab2_NT106\\Bai7.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwE0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T09:56:07.19Z",
+              "WhenOpened": "2025-10-20T06:19:12.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bai6.cs [Design]",
-              "DocumentMoniker": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai6.cs",
-              "RelativeDocumentMoniker": "Lab2_NT106\\Bai6.cs",
-              "ToolTip": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai6.cs [Design]",
-              "RelativeToolTip": "Lab2_NT106\\Bai6.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Bai5.cs",
+              "DocumentMoniker": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai5.cs",
+              "RelativeDocumentMoniker": "Lab2_NT106\\Bai5.cs",
+              "ToolTip": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai5.cs",
+              "RelativeToolTip": "Lab2_NT106\\Bai5.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAADwv5EAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T07:53:32.161Z",
+              "WhenOpened": "2025-10-20T06:09:20.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai5.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai5.cs",
+              "RelativeDocumentMoniker": "Lab2_NT106\\Bai5.cs",
+              "ToolTip": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai5.cs [Design]",
+              "RelativeToolTip": "Lab2_NT106\\Bai5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:09:17.896Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai7.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai7.cs",
+              "RelativeDocumentMoniker": "Lab2_NT106\\Bai7.cs",
+              "ToolTip": "D:\\Project\\LapTrinhMAng\\Lab2_NT106\\Lab2_NT106\\Bai7.cs [Design]",
+              "RelativeToolTip": "Lab2_NT106\\Bai7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:32:32.694Z",
               "EditorCaption": " [Design]"
             }
           ]
